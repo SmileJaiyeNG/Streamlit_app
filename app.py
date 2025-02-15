@@ -4,17 +4,17 @@ import streamlit as st
 departments = {
     "CFO’s OFFICE": {
         "task": "The Silent Disco",
-        "description": "Everyone wears headphones playing different songs, but they must dance together in sync without speaking.",
+        "description": "Everyone wears headphones playing different songs, but they will dance together in sync without speaking.",
         "objective": "A hilarious, non-verbal way to build teamwork."
     },
     "BUSINESS PARTNERING": {
         "task": "Around the World - Cultural Showcase",
-        "description": "Team represents a country (not home country) and must prepare a fun cultural performance (a dance, chant, or a short drama).",
+        "description": "Team represents a country (not home country) and will prepare a fun cultural performance (a dance, chant, or a short drama).",
         "objective": "Fosters diversity, inclusivity and fun learning moments."
     },
     "FINANCIAL PLANNING": {
         "task": "Lights, Camera, Action! – Skit",
-        "description": "Team selects a random topic (e.g., futuristic workplace, The day technology took over, a day in the life of a CFO) and must create and perform a short skit.",
+        "description": "Team selects a random topic (e.g., futuristic workplace, The day technology took over, a day in the life of a CFO) and will create and perform a short skit.",
         "objective": "Enhances storytelling, improvisation, and laughter."
     },
     "BUSINESS ASSURANCE": {
